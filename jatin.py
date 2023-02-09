@@ -1,6 +1,4 @@
-print("jobc")
+def noice():
+    print("hello sir")
 
-print("hw")
-print('jatin')
-print('karan')
-print("btech")
+noice()
